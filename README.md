@@ -1,44 +1,168 @@
-# 👋 Hi, I'm YASHAS  
+# Hi 👋! I'm YASHAS Y NAYAK
 
-🎓 Student | Passionate Learner in Software Development  
+<div align="center">
+  <img align="right" src="./coding.gif" alt="Coding" width="450" />
+</div>
 
-🌱 Currently learning:  
-- MERN Stack (Full Stack Development)  
-- Mobile Application Development using Flutter  
-- Data Analysis  
-- Data Structures and Algorithms  
+### Information Science & Engineering Student from India 🇮🇳
 
-🎯 Career Goal:  
-To continuously grow as a software professional and contribute to meaningful and impactful technology solutions.
+💻 **Backend Developer • Full Stack Developer • AI Enthusiast**
 
-⚡ Fun Fact:  
-I enjoy learning new technologies and turning ideas into real projects.
+🚀 Building scalable backend systems, web and mobile applications
 
-📫 How to reach me:  
-✉️ yashasynayak60@gmail.com
+🤖 Exploring **Artificial Intelligence, Data Science & IoT**
 
+🌱 Always learning new technologies and turning ideas into real-world solutions
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UXkBjSePGj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashas-y-nayak-58a169287) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UChXFxb2WQKo2h8WLXRTPTsA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashasynayak60@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashas20-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashas20-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashas20-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashas20-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashas20-bot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br clear="right"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashas20-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<div align="left">
+
+### Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" alt="Go" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="Dart" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL" />
+
+### Backend, Mobile & Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="45" alt="Gin" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React Native" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="Firebase" />
+
+### Cloud & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Software Development Intern — Giddly
+
+**Feb 2025 – Present · Remote**
+
+Contributing to an AI-powered assignment management platform for students and teachers.
+
+* Developed **Go/Gin APIs** for assignment workflows, secure file uploads and AI grading integration.
+* Built **React Native** features for assignment submission, calendar views and real-time score updates.
+* Integrated **PostgreSQL, Supabase, JWT authentication and WebSockets**.
+* Worked with **AWS S3, Redis, Docker and Render** for storage, infrastructure and deployment.
+* Improved application reliability by resolving Android upload issues and developing reusable PDF conversion components.
+* Developed webhook-based event notifications, bulk invitation APIs and asynchronous processing for event management workflows.
+
+**Tech:** `Go` `Gin` `PostgreSQL` `React Native` `Supabase` `Redis` `AWS S3` `Docker` `WebSockets` `JWT`
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 NutriTech — AI for Smart Farming
+
+AI-powered agricultural platform using real-time soil data and IoT integration for crop recommendation, disease prediction and fertilizer guidance.
+
+**Tech:** `AI` `IoT` `REST APIs` `Cloud`
+
+> Recognized under Karnataka's NAIN 2.0 Startup Policy and awarded a ₹4,00,000 grant for project development.
+
+---
+
+### 🔎 Word Search Puzzle Game
+
+A web-based word search puzzle game using the **Trie data structure and recursion** for efficient word lookup, with a responsive and interactive interface.
+
+**Tech:** `HTML` `CSS` `JavaScript` `Trie` `Recursion`
+
+---
+
+### 📊 YouTube Data Analytics
+
+Python-based data analytics pipeline for cleaning, analyzing and visualizing YouTube datasets to identify content performance and viewer engagement trends.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+<p align="center">
+  <a href="https://github.com/yashas20-bot?tab=repositories">
+    ⭐ View more projects on my GitHub →
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashas20-bot&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas20-bot&layout=compact&theme=dark&hide_border=true" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yashas20-bot&theme=dark&hide_border=true" width="600" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/yashas-y-nayak-58a169287">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:yashasynayak60@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/yashas20-bot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <i>"Always learning. Always building."</i>
+</p>
