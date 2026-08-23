@@ -4,7 +4,7 @@
   <img align="right" src="./coding.gif" alt="Coding GIF" width="450" height="270" style="border-radius: 30px; margin-left: 50px; padding-left: 20px;" />
 </div>
 
-### An Information Science & Engineering student passionate about software development from India 🇮🇳
+### An Information Science & Engineering student passionate about software development and Artificial Intelligence
 
 🌱 Currently exploring **Backend Engineering, Full Stack Development and Artificial Intelligence**
 
